@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+c:\users\nisarg\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nisarg\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(86): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nisarg\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(113): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\nisarg\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(115): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ConsoleApplication2.vcxproj -> C:\Users\Nisarg\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
